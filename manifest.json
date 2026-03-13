@@ -1,0 +1,26 @@
+{
+  "name": "ProTech — Premium PC Store Algeria",
+  "short_name": "ProTech",
+  "description": "Premium PC components, pre-built gaming systems, and custom builds across Algeria.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#050508",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "pic/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "pic/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "business"],
+  "lang": "en"
+}
